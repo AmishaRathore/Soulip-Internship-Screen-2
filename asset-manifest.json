@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Soulip-Internship-Screen-2-react/static/css/main.aeed885a.chunk.css",
+    "main.js": "/Soulip-Internship-Screen-2-react/static/js/main.b997fcbd.chunk.js",
+    "main.js.map": "/Soulip-Internship-Screen-2-react/static/js/main.b997fcbd.chunk.js.map",
+    "runtime-main.js": "/Soulip-Internship-Screen-2-react/static/js/runtime-main.5719dfca.js",
+    "runtime-main.js.map": "/Soulip-Internship-Screen-2-react/static/js/runtime-main.5719dfca.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Soulip-Internship-Screen-2-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.264c0b89.chunk.js": "/Soulip-Internship-Screen-2-react/static/js/2.264c0b89.chunk.js",
+    "static/js/2.264c0b89.chunk.js.map": "/Soulip-Internship-Screen-2-react/static/js/2.264c0b89.chunk.js.map",
+    "index.html": "/Soulip-Internship-Screen-2-react/index.html",
+    "precache-manifest.b83d274eea3df3149d953a9dfc6f078a.js": "/Soulip-Internship-Screen-2-react/precache-manifest.b83d274eea3df3149d953a9dfc6f078a.js",
+    "service-worker.js": "/Soulip-Internship-Screen-2-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Soulip-Internship-Screen-2-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.aeed885a.chunk.css.map": "/Soulip-Internship-Screen-2-react/static/css/main.aeed885a.chunk.css.map",
+    "static/js/2.264c0b89.chunk.js.LICENSE.txt": "/Soulip-Internship-Screen-2-react/static/js/2.264c0b89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5719dfca.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.264c0b89.chunk.js",
+    "static/css/main.aeed885a.chunk.css",
+    "static/js/main.b997fcbd.chunk.js"
+  ]
+}
